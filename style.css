@@ -2,6 +2,7 @@ body {
   padding: 10px 30px;
   font-family: 'Karla', sans-serif;
   font-size: 14px;
+  color: #373737;
 }
 
 .section {
@@ -25,6 +26,7 @@ body {
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 1.2;
+  color: black;
 }
 
 .contact {
@@ -32,4 +34,7 @@ body {
 }
 .contact .item {
   margin-right: 12px;
+}
+.item-addition {
+  margin-left: 12px;
 }
