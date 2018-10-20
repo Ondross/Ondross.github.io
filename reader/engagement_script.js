@@ -1,6 +1,6 @@
 const princess = [
   "## Act 1\n_Frogman leans on the wall of a grungy basement. An old mop is propped up next to a rusty washbucket. Frogman whistles while he lights a cigarette._",
-  "#### Frogman\n9pm, about quitting time down here. My old life, it never changes. But I like it this way. I like it a lot. I'm the castle's artist. Scrubbing floors, doing dishes, and my favorite part: flushing the toilets. That's why I save the best for last. Cleaning the private throne of princess pops. No I'm not a creep. I'm a janitor. I'm motivated. Now let's get to work so I can get home to my sweet dreams.",
+  "#### Frogman\n9pm, about quitting time down here. This old life, it never changes. But I like it this way. I like it a lot. I'm the castle's artist. Scrubbing floors, doing dishes, and my favorite part: flushing the toilets. That's why I save the best for last. Cleaning the private throne of Princess Pops. No I'm not a creep. I'm a janitor. I'm motivated. Now let's get to work so I can get home to my sweet dreams.",
   "#### Princess Pops\n_(On the toilet, in a moment of deep reflection)_\nThe kingdom is changing. 1000 years I've been a princess. I've seen us through hard times. I fought off beasts and bandits by my own hand, and now we have the longest period of peace in history. I can rest. Bust my father wants me to marry? Find the next King? No way. I have my life to live. Memoirs to write. And it begins now. *FLUSH*",
   "#### Frogman\nAbout done?",
   "#### Princess Pops\nExcuse me!",

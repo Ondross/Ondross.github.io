@@ -61,6 +61,7 @@ $(() => {
 
   $('.story-option').click(function () {
     setMode('choose-char')
+    $('.story-name').html($(this).html())
     choosePlay($(this).data('story'))
   })
 
