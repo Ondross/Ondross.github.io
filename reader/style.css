@@ -1,0 +1,94 @@
+@viewport {
+  width: device-width;
+}
+html {
+  font-size: 62.5%;
+  width:100%;
+}
+
+body {
+  font-family: 'Courier', 'monospace';
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  font-size: 21px;
+  font-size: 2.1rem;
+  line-height: 1.8;
+  color: #373737;
+}
+
+h4, h2 {
+  margin-bottom: 0px;
+  margin-top: 5px;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  padding: 10px;
+}
+.screen {
+  flex-direction: column;
+  display: flex;
+  flex: 1 0 auto;
+}
+.title {
+  font-family: 'Cursive'
+  font-size: 26px;
+  font-size: 2.6rem;
+}
+
+.current-line {
+  margin-bottom: 90px;
+  line-height: 2.1;
+  flex: 1 0 auto;
+}
+.current-line p {
+  white-space: pre-wrap;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+}
+.option {
+  margin-top: 5px;
+  border: #efefef 1px solid;
+  border-radius: 3px;
+  padding: 5px;
+  text-align: center;
+}
+
+.buttons-container {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  background: white;
+  box-shadow: lightgrey 0 -1px 3px;
+  justify-content: space-between;
+  margin-left: -10px;
+}
+
+.button {
+  cursor: pointer;
+  line-height: 1;
+  padding: 25px;
+}
+
+.button.disabled {
+  opacity: .5;
+  cursor: not-allowed;
+}
+
+.button img {
+  height: 40px;
+}
+.prev img {
+  transform: rotateZ(180deg);
+}
+
+/*
+  add a breakpoint for desktop.
+*/
