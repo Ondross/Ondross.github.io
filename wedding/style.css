@@ -1,0 +1,54 @@
+@viewport {
+  width: device-width;
+}
+html {
+  font-size: 62.5%;
+  width:100%;
+}
+
+body {
+  font-family: 'Courier', 'monospace';
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  font-size: 21px;
+  font-size: 2.1rem;
+  line-height: 1.8;
+  color: #373737;
+}
+
+h4, h2 {
+  margin-bottom: 0px;
+  margin-top: 5px;
+  text-align: center;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  padding: 10px;
+  max-width: 600px;
+}
+.screen {
+  flex-direction: column;
+  display: flex;
+  flex: 1 0 auto;
+}
+.title {
+  font-family: cursive;
+  font-size: 32px;
+  font-size: 3.2rem;
+  margin-bottom: 0px;
+  margin-top: 5px;
+  text-align: center;
+}
+.subtitle {
+  font-weight: bold;
+  font-size: 24px;
+  font-size: 2.4rem;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  text-align: center;
+}
