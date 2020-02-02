@@ -22,7 +22,7 @@ body {
 }
 
 .title, .header {
-  font-family: serif;
+  font-family: 'Merriweather', serif;
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 1.2;
@@ -34,7 +34,4 @@ body {
 }
 .contact .item {
   margin-right: 12px;
-}
-.item-addition {
-  margin-left: 12px;
 }
