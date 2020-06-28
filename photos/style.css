@@ -1,39 +1,45 @@
 body {
-  padding: 10px 30px;
+  padding: 10px 0;
+  margin: 0px;
   font-family: 'Karla', sans-serif;
-  font-size: 14px;
-  color: #373737;
-  background: cornsilk;
-}
-
-.section {
-  padding: 20px;
-}
-
-.header {
   font-size: 16px;
+  color: #373737;
+  background: #fafaff;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
 }
 
-.item {
-  margin-top: 12px;
+.date {
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .title {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 img {
-  max-width: 90%;
-  width: 600px;
+  max-width: 100%;
+  margin-top: 16px;
 }
 .image {
-	margin: 40px;
+	margin: 40px 0;
+}
+.description {
+	margin-top: 16px;
+	font-style: italic;
 }
 
 .title, .header {
-  font-family: 'Merriweather', serif;
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 1.2;
   color: black;
+}
+
+.info {
+	font-style: italic;
+	margin-top: 8px;
 }
