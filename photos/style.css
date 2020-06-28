@@ -1,0 +1,39 @@
+body {
+  padding: 10px 30px;
+  font-family: 'Karla', sans-serif;
+  font-size: 14px;
+  color: #373737;
+  background: cornsilk;
+}
+
+.section {
+  padding: 20px;
+}
+
+.header {
+  font-size: 16px;
+}
+
+.item {
+  margin-top: 12px;
+}
+
+.title {
+  font-size: 20px;
+}
+
+img {
+  max-width: 90%;
+  width: 600px;
+}
+.image {
+	margin: 40px;
+}
+
+.title, .header {
+  font-family: 'Merriweather', serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1.2;
+  color: black;
+}
